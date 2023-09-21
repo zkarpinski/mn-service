@@ -6,7 +6,7 @@ mn create-app example.micronaut.micronautguide --build=gradle --lang=java
 
 ### Gradle Dependencies
 ```
-./gradlew -q dependencies > gradle-dependencies.txt
+./gradlew -q dependencies > ref/gradle-dependencies.txt
 ```
 
 ### Grype
