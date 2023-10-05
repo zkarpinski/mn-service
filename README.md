@@ -16,4 +16,7 @@ grype directory --file build/libs/micronautguide-0.1-all.jar
 ```
 
 
-
+### Creating Docker Image
+```
+./gradlew dockerBuild
+```
